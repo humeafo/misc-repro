@@ -1,6 +1,6 @@
 mshtml version: 11.0.9600.17126 D5ECBB3BFDC73A59440D9CA79AB3A342
 
-total 169
+total 177
 6367ea85: CEventMgr                                0x28
 641bc315: Tree::SvgElement                         0x28
 6427873b: CSVGElementInstance                      0x28
@@ -28,6 +28,8 @@ total 169
 6423f7a3: CTextElement                             0x34
 642ec8b0: CSourceElement                           0x34
 64328782: CBaseFontElement                         0x34
+6381fcb2: CDOMTextNode                             0x34
+6394895c: CDOMTextNode                             0x34
 636db300: CNoShowElement                           0x38
 637b529a: CHeaderElement                           0x38
 6380fd87: COListElement                            0x38
@@ -54,6 +56,7 @@ total 169
 642f6bbd: CTrackElement                            0x44
 637e4dc4: CLabelElement                            0x48
 63966fad: CTableCell                               0x48
+63e98695: CMarkupPointer                           0x48
 636d2748: COptionElement                           0x4c
 63966666: CTableSection                            0x4c
 63ac2c39: CSVGDefsElement                          0x4c
@@ -77,6 +80,11 @@ total 169
 6429fc8c: CSVGSymbolElement                        0x4c
 642a160f: CSVGTSpanElement                         0x4c
 642a30c9: CSVGViewElement                          0x4c
+63e87318: CTextNodeMarkupPointer                   0x4c
+63f1f492: CTraversalNodeIterator                   0x4c
+63f1f492: CTraversalNodeIterator                   0x4c
+64235593: CDomRange::CBoundaryPoint                0x4c
+64235639: CDomRange::CBoundaryPoint                0x4c
 635e2c45: CObjectElement                           0x50
 63aaa707: CGenericElement                          0x50
 63ac0293: CSVGFilterElement                        0x50

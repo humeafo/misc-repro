@@ -1,6 +1,16 @@
 mshtml version: 11.0.9600.17126 56803B20D168C1B740D12CE0BE4588F5
 
-total 171
+total 213
+180fbbfa8: CSelectionRenderingServiceProvider       0x0
+180fbbfa8: CSelectionRenderingServiceProvider       0x0
+180f550e0: Tree::TextCombineHorizontalBuilder       0x0
+180f387e0: Tree::DomRangeCollection                 0x0
+180f387e0: Tree::DomRangeCollection                 0x0
+180bca7dc: CTraversalNodeIterator                   0x0
+180bca7dc: CTraversalNodeIterator                   0x0
+180bca7dc: CTraversalNodeIterator                   0x0
+1806907dc: CTsfTextStore                            0x0
+1806907dc: CTsfTextStore                            0x0
 1811276cc: CDataListElement                         0x0
 1810e3ce0: CTrackElement                            0x0
 1810d61e0: CSourceElement                           0x0
@@ -38,6 +48,8 @@ total 171
 18073922c: CDListElement                            0x60
 180749c64: COListElement                            0x60
 180752f78: CTableCol                                0x60
+180195500: CDOMTextNode                             0x60
+1803e902c: CDOMTextNode                             0x60
 180069314: CDoc                                     0x68
 180255150: CBaseElement                             0x68
 1802cbbb0: CHRElement                               0x68
@@ -57,6 +69,30 @@ total 171
 1802d8ab0: CTableCell                               0x78
 18026f058: COptionElement                           0x80
 180753260: CTableCaption                            0x80
+1803a1c20: long CreateMarkupPointer2(class CEditorDoc *,struct IMarkupPointerPriv * *) 0x80
+1803af5d8: Edit11::SMarkupPosition                  0x80
+1803d3cf0: CDoc                                     0x80
+1803e793c: CDOMChildrenCollection                   0x80
+180691030: Edit11::SMarkupPosition                  0x80
+180693f6c: Edit11::SMarkupPosition                  0x80
+180694c00: Edit11::SMarkupPosition                  0x80
+1806c3008: CDisplay                                 0x80
+1806c3008: CDisplay                                 0x80
+180bcab10: CTraversalTreeWalker                     0x80
+180bcab10: CTraversalTreeWalker                     0x80
+180c3a4c8: CDOMChildrenCollection                   0x80
+180f27f10: Tree                                     0x80
+180f3818c: Tree::DomRangeCollection                 0x80
+180f3818c: Tree::DomRangeCollection                 0x80
+180f38330: Tree::DomRangeCollection                 0x80
+180f38330: Tree::DomRangeCollection                 0x80
+180f384d0: Tree::DomRangeCollection                 0x80
+180f384d0: Tree::DomRangeCollection                 0x80
+180f550e0: Tree::TextCombineHorizontalBuilder       0x80
+180fc0370: CTsfTextStore                            0x80
+180fc1990: CTsfTextStore                            0x80
+1811f39f0: Edit11::SMarkupPosition                  0x80
+1811f3b48: Edit11::SMarkupPosition                  0x80
 1800021cc: CObjectElement                           0x88
 1805f3f30: CGenericElement                          0x88
 1807dbf40: CSVGGElement                             0x88
@@ -80,6 +116,12 @@ total 171
 18106f4ac: CSVGTSpanElement                         0x88
 181072160: CSVGViewElement                          0x88
 18111f9d8: CGenericElement                          0x88
+1803e91a4: CDOMTextNode                             0x88
+1803e8f00: long CreateTextNode(class CDoc *,class CMarkupPointer *,long,class CDOMTextNode * *) 0x88
+180b0f9cc: CDoc                                     0x88
+180b10aa0: CDOMTextNode                             0x88
+180fd42a0: CDomRange::CBoundaryPoint                0x88
+180fd4380: CDomRange::CBoundaryPoint                0x88
 1802c1e90: CButton                                  0x90
 1802d8a00: CTableRow                                0x90
 180381068: CProgressElement                         0x90
